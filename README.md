@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipebJaques&show_icons=true&theme=merko)
+<!-- ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipebJaques&show_icons=true&theme=merko) -->
 
 ## Tecnologias que uso no meu dia 
 
