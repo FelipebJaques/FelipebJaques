@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!-- ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipebJaques&show_icons=true&theme=merko) -->
+### Status
+<div align="center">
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipebJaques&show_icons=true&theme=tokyonight"/>
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipebJaques&theme=tokyonight&layout=compact"/>
+</div>
 
 ## Tecnologias que uso no meu dia 
 
